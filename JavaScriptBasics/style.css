@@ -1,14 +1,11 @@
-ul,ol {
-    margin: 0;
-    padding-left: 30px;
-}
+
 *{
  margin: 0px;
  padding: 0px;
 }
 
 #wrapper {
-    background-color: blue;
+    background-color: #1D355C;
     padding: 20px;
     width: 970px;
     overflow: auto;
@@ -16,33 +13,51 @@ ul,ol {
 }
 
 #header {
-    background-color: red;
+    background-color: #CC323B;
     padding: 15px;
     margin-bottom: 20px;
     border-radius: 10px;
+    color: #95B5DA;
 }
 #navbar{
-    background-color: orange;
+    background-color: #2F7D8B;
     padding: 20px;
     display: inline-block;
     border-radius: 10px;
     margin-right: 20px;
-    
+    color: #69D5D4;
+}
+
+#navbar ul,ol {
+    margin: 0;
+    padding-left: 20px;
+    color: #59C5D9;
+}
+
+a{
+    color: #69D5D4;
 }
 #main {
-    background-color: yellow;
+    background-color: #0F1822;
     display: inline-block;
-    border-radius: 10px;
+    vertical-align: top;
+    border-radius: 20px;
     padding: 20px;
-    
-    
+    color: #95B5DA;
+    width: 690px;
 }
+
+#main ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
 
 #footer {
     display: block;
-    background-color: grey;
+    background-color: #5E6672;
     padding: 20px;
     border-radius: 10px;
     margin-top: 20px;
-
+    color: #95B5DA;
 }

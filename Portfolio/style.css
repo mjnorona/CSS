@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.wrapper {
+    background-color: rgb(249,249,249);
+    width: 931px;
+}
+.header {
+    padding: 20px;
+}
+
+.name {
+    display: inline-block;
+}
+
+.textRight {
+    padding-left: 353px;
+    display: inline-block;
+}
+
+.content {
+    background-color: rgb(107,85,96);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.bio{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+
+}
+.profilePic {
+    width: 40%;
+    height: 40%;
+    display: inline-block;
+    vertical-align: top;
+    border: 5px solid rgb(192,192,192);
+}
+
+.about {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 20px;
+    width: 473px;
+}
+
+.topBar {
+    padding: 10px;
+    background-color: #A2A1A8;
+    color: white;
+    display: block;
+}
+
+.bottom {
+    margin-left: 20px;
+    
+}
+
+.section {
+    display: inline-block;
+    margin-right: 20px;
+    width: 275px;
+}
+
+.smallImg {
+    max-width: 275px;
+    padding: 0px;
+}
+
+.bottomSect p{
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: #EDE5EC;
+    padding-top: 0px;
+}
+
+.bottomSect a{
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    background-color: green;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 5px;
+    color: white;
+    border-radius: 8px;
+}
+
+.technology {
+    padding-top: 8px;
+    background-color: #EDE5EC;
+}
+
+.techIcon {
+    padding: 10px 10px 10px 10px;
+}
+
+.techIcon p{
+    text-align:center;
+    margin-top: 5px;
+}
+.about p{
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: #EDE5EC;
+    padding-top: 0px;
+}
+.icon {
+    max-width: 40px;
+    padding-left: 6px;
+}
+
+.contact {
+    display: block;
+    text-align: center;
+}
+.contactIcon {
+    max-width: 20px;
+}
+
+.footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
