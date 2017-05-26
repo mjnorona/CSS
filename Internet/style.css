@@ -1,0 +1,217 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.conttainer {
+    width: 100px;
+}
+
+.header img{
+    max-width: 80px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.header h1 {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 25px;
+    font-size: 40px;
+}
+
+.header span{
+    color: #2B6A9E;
+}
+
+.header h2{
+    display: block;
+    background-color: #326D9F;
+    color: white;
+    padding: 10px 15px 10px 15px;
+}
+
+
+.adSect {
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px 2px 20px 5px;
+    width: 163px;
+}
+
+.adSect h4{
+    margin-bottom: 8px;
+}
+
+.adSect h6{
+    margin-bottom: 10px;
+}
+
+.adSect button{
+    display: block;
+    width: 160px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+#button1 {
+    background-color: #3673A5;
+}
+
+#button2 {
+    background-color: #ED7D12;
+    margin-bottom:20px;
+}
+
+.ad {
+    position: relative;
+}
+
+.ad h3{
+    position: absolute;
+    top: 20px;
+    text-align: center;
+    color: white;
+}
+
+.ad button{
+    position: absolute;
+    top: 200px;
+    margin-left:10px;
+    width: 140px;
+    background-color: #25C5DD;
+}
+
+.ad {
+    margin-top: 20px;
+}
+
+#background {
+    max-width:160px;
+    height: 250px;
+}
+
+#ninja{
+    position: absolute;
+    top: 82px;
+    left: 40px;
+    max-width:75px;
+}
+
+.content {
+    display: inline-block;
+    vertical-align: top;
+    width: 700px;
+    margin-left: 30px;
+}
+
+.contentHead {
+    width: 600px;
+    margin-bottom: 10px;
+}
+
+
+#DNS img{
+    max-width: 15px;
+    display: inline-block;
+}
+
+#DNS p{
+    display: inline-block;
+    padding-left: 5px;
+    color: #7FA2BF;
+}
+
+#DNS {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.contact{
+    display: inline-block;
+    vertical-align: top;
+    width: 700px;
+}
+
+.contact img{
+    max-width: 30px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 8px;
+    margin-left: 550px;
+}
+
+.info {
+    display: inline-block;
+    text-align: center;
+}
+
+.info h3{
+    color: #0DC2DE;
+}
+.contact p{
+    font-size: 8px;
+    color: #A3A3A3;
+}
+
+.contentBody img{
+    max-width: 200px;
+    display: block;
+    padding-left: 220px;
+}
+
+.contentBody h4{
+    color: #336FA2;
+}
+
+.contentBody a{
+    color: #3CAFBF;
+    text-decoration: none;
+}
+
+.contentBody ul, ol{
+    padding-left: 40px;
+}
+
+
+.contentBody p {
+    font-size: 13px;
+}
+
+.big3 {
+    border: 5px solid #0087DD;
+    margin-top: 15px;
+}
+.big3 img{
+    max-width: 90px;
+    display: inline-block;
+    padding-left: 10px;
+    vertical-align: top;
+    margin-top: 10px;
+}
+
+.bigContent {
+    display: inline-block;
+    width: 560px;
+    vertical-align: top;
+    margin: 10px 0px 0px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
